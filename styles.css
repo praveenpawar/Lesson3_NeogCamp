@@ -7,6 +7,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
 }
 hr{
     margin: 2rem 0rem;
@@ -78,6 +79,7 @@ hr{
     margin: auto;
 }
 .hero .hero-heading{
+    text-align: center;
     padding: 1rem;
     color: var(--darkgrey-color);   
 }
@@ -94,4 +96,20 @@ hr{
 }
 .section-ow{
     background-color: var(--offwhite-color);
+}
+
+/* footer */
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+.footer .link{
+    color: white;
+
+}
+.footer ul{
+    padding-inline-start: 0px;
 }

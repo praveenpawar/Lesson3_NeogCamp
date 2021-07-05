@@ -106,9 +106,11 @@ hr{
     color: white;
     border-top-right-radius: 1rem;
 }
+.footer-header{
+    font-weight: bold;
+}
 .footer .link{
     color: white;
-
 }
 .footer ul{
     padding-inline-start: 0px;

@@ -74,6 +74,7 @@ hr{
     padding: 2rem;
 }
 .hero-img{
+    padding-top: 3rem;
     max-width: 350px;
     display: block;
     margin: auto;
